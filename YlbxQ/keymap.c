@@ -5,6 +5,8 @@
 #define ZSA_SAFE_RANGE SAFE_RANGE
 #endif
 
+#include "sm_td.h"
+
 enum custom_keycodes {
   RGB_SLD = ZSA_SAFE_RANGE,
   HSV_0_255_255,
