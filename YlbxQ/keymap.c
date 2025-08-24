@@ -176,4 +176,3 @@ smtd_resolution on_smtd_action(uint16_t keycode, smtd_action action, uint8_t tap
 
     return SMTD_RESOLUTION_UNHANDLED;
 }
-=======
